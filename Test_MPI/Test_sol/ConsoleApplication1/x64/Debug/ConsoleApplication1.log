@@ -1,0 +1,2 @@
+﻿  pch.cpp
+d:\ensam\3eme_rv_ra\parallel_computing\test\test_sol\consoleapplication1\pch.cpp(3): fatal error C1854: impossible de remplacer les informations obtenues lors de la création de l'en-tête précompilé du fichier objet : 'd:\ensam\3eme_rv_ra\parallel_computing\test\test_sol\consoleapplication1\x64\debug\pch.obj'

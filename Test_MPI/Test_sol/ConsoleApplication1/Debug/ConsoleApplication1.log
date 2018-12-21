@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+d:\ensam\3eme_rv_ra\parallel_computing\test\test_sol\consoleapplication1\consoleapplication1.cpp(10): fatal error C1083: Impossible d'ouvrir le fichier include : 'mpi.h' : No such file or directory
